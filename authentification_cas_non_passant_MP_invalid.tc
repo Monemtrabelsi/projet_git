@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>authentification_cas_non_passant_MP_invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>be0dbe77-7fe3-4585-b108-4051893e3add</testCaseGuid>
+</TestCaseEntity>
